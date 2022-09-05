@@ -1,3 +1,3 @@
 # PHP
 
-Varius bits
+Various bits
